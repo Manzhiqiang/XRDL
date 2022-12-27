@@ -19,7 +19,7 @@ using System.Text;
 using System.Transactions;
 
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public class KDOpView
     {

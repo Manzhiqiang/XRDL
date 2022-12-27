@@ -1,55 +1,55 @@
-E:\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-E:\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-E:\川仪流量\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-E:\川仪流量\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-E:\川仪流量\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-E:\川仪流量\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
-C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-D:\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-D:\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-D:\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-D:\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
-D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-D:\新建文件夹\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-D:\新建文件夹\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\beifeng\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\beifeng\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\Program Files (x86)\kloude\dll\CYGF.DDL.K3.BOS.Models.dll
-C:\Program Files (x86)\kloude\dll\CYGF.DDL.K3.BOS.Models.pdb
-C:\Users\beifeng\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\Users\beifeng\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\新建文件夹\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\新建文件夹\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\Users\Administrator\Desktop\新建文件夹\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\新建文件夹\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-C:\Users\Administrator\Desktop\新建文件夹\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-C:\Users\Administrator\Desktop\新建文件夹\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
-D:\WebSite\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-D:\WebSite\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-D:\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
-C:\beifeng\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\beifeng\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\Users\Administrator\Desktop\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-C:\Users\Administrator\Desktop\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-C:\Users\Administrator\Desktop\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
-D:\beifeng\bin\CYGF.DDL.K3.BOS.Models.dll
-D:\beifeng\bin\CYGF.DDL.K3.BOS.Models.pdb
-D:\执行器表号代码\1022\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-D:\执行器表号代码\1022\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-D:\执行器表号代码\1022\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-D:\执行器表号代码\1022\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
-D:\执行器表号代码\1022\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
-C:\beifenbin\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\beifenbin\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\Users\Administrator\Desktop\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
-C:\Users\beifenbin\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.dll
-C:\Users\beifenbin\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.Models.pdb
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csprojAssemblyReference.cache
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.csproj.CopyComplete
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.dll
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYGF.DDL.K3.BOS.Models.pdb
+E:\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+E:\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+E:\川仪流量\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+E:\川仪流量\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+E:\川仪流量\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+E:\川仪流量\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+D:\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+D:\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+D:\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+D:\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+D:\新建文件夹\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+D:\新建文件夹\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\beifeng\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\beifeng\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\Program Files (x86)\kloude\dll\XRDL.DDL.K3.BOS.Models.dll
+C:\Program Files (x86)\kloude\dll\XRDL.DDL.K3.BOS.Models.pdb
+C:\Users\beifeng\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\Users\beifeng\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\新建文件夹\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\新建文件夹\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\新建文件夹\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+C:\Users\Administrator\Desktop\新建文件夹\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb
+D:\WebSite\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+D:\WebSite\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+D:\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
+C:\beifeng\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\beifeng\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+C:\Users\Administrator\Desktop\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+C:\Users\Administrator\Desktop\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb
+D:\beifeng\bin\XRDL.DDL.K3.BOS.Models.dll
+D:\beifeng\bin\XRDL.DDL.K3.BOS.Models.pdb
+D:\执行器表号代码\1022\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+D:\执行器表号代码\1022\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+D:\执行器表号代码\1022\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+D:\执行器表号代码\1022\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb
+D:\执行器表号代码\1022\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
+C:\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
+C:\Users\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.dll
+C:\Users\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.csproj.CopyComplete
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.dll
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Models\obj\Debug\XRDL.DDL.K3.BOS.Models.pdb

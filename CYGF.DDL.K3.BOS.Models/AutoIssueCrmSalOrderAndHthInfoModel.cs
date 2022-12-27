@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CYSD.DDL.K3.BOS.Models
+namespace XRDL.DDL.K3.BOS.Models
 {
     /// <summary>
     /// CRM 下发销售订单主表模型

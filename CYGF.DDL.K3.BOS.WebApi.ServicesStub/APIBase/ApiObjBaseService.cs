@@ -16,13 +16,13 @@ using Kingdee.BOS.Core.Metadata;
 using Kingdee.BOS.Core.DynamicForm;
 using Newtonsoft.Json;
 using Kingdee.BOS.JSON;
-using CYSD.DDL.K3.BOS.Models;
+using XRDL.DDL.K3.BOS.Models;
 using Kingdee.BOS.Core.Bill;
 using Kingdee.BOS.App.Data;
 using System.Transactions;
-using CYSD.DDL.K3.BOS.Tools;
+using XRDL.DDL.K3.BOS.Tools;
 
-namespace CYSD.DDL.K3.BOS.WebApi.ServicesStub.APIBase
+namespace XRDL.DDL.K3.BOS.WebApi.ServicesStub.APIBase
 {
 
     /// <summary>

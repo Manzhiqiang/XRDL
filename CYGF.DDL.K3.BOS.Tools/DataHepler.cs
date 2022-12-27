@@ -14,9 +14,9 @@ using Kingdee.BOS.Authentication;
 using Newtonsoft.Json;
 using Kingdee.BOS.ServiceFacade.KDServiceFx;
 using Kingdee.BOS.WebApi.ServicesStub;
- using CYSD.DDL.K3.BOS.Models;
+ using XRDL.DDL.K3.BOS.Models;
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public class DataHepler
     {

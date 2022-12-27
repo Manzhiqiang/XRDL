@@ -7,8 +7,8 @@
     <ProjectGuid>{1F4CE63F-2858-49E6-AAB2-A2974D7B5AAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CYSD.DDL.K3.BOS.WebApi.ServicesStub</RootNamespace>
-    <AssemblyName>CYSD.DDL.K3.BOS.WebApi.ServicesStub</AssemblyName>
+    <RootNamespace>XRDL.DDL.K3.BOS.WebApi.ServicesStub</RootNamespace>
+    <AssemblyName>XRDL.DDL.K3.BOS.WebApi.ServicesStub</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,9 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CYGF.DDL.K3.BOS.WebApi.ServicesStub, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="XRDL.DDL.K3.BOS.WebApi.ServicesStub, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\CYGF.DDL.K3.BOS.WebApi.ServicesStub.dll</HintPath>
+      <HintPath>D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.WebApi.ServicesStub.dll</HintPath>
     </Reference>
     <Reference Include="Kingdee.BOS">
       <HintPath>C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.BOS.dll</HintPath>
@@ -115,13 +115,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CYGF.DDL.K3.BOS.Models\CYSD.DDL.K3.BOS.Models.csproj">
+    <ProjectReference Include="..\XRDL.DDL.K3.BOS.Models\XRDL.DDL.K3.BOS.Models.csproj">
       <Project>{b548c0b2-9859-436b-9d2b-3598b5b41173}</Project>
-      <Name>CYSD.DDL.K3.BOS.Models</Name>
+      <Name>XRDL.DDL.K3.BOS.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CYGF.DDL.K3.BOS.Tools\CYSD.DDL.K3.BOS.Tools.csproj">
+    <ProjectReference Include="..\XRDL.DDL.K3.BOS.Tools\XRDL.DDL.K3.BOS.Tools.csproj">
       <Project>{f4c0f5da-68e3-473f-882e-359fe2ed02bf}</Project>
-      <Name>CYSD.DDL.K3.BOS.Tools</Name>
+      <Name>XRDL.DDL.K3.BOS.Tools</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

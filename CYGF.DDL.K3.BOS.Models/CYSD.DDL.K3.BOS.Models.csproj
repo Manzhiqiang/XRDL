@@ -7,8 +7,8 @@
     <ProjectGuid>{B548C0B2-9859-436B-9D2B-3598B5B41173}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CYSD.DDL.K3.BOS.Models</RootNamespace>
-    <AssemblyName>CYSD.DDL.K3.BOS.Models</AssemblyName>
+    <RootNamespace>XRDL.DDL.K3.BOS.Models</RootNamespace>
+    <AssemblyName>XRDL.DDL.K3.BOS.Models</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

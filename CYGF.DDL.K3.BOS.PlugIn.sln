@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYSD.DDL.K3.BOS.Models", "CYGF.DDL.K3.BOS.Models\CYSD.DDL.K3.BOS.Models.csproj", "{B548C0B2-9859-436B-9D2B-3598B5B41173}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRDL.DDL.K3.BOS.Models", "XRDL.DDL.K3.BOS.Models\XRDL.DDL.K3.BOS.Models.csproj", "{B548C0B2-9859-436B-9D2B-3598B5B41173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYSD.DDL.K3.BOS.Tools", "CYGF.DDL.K3.BOS.Tools\CYSD.DDL.K3.BOS.Tools.csproj", "{F4C0F5DA-68E3-473F-882E-359FE2ED02BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRDL.DDL.K3.BOS.Tools", "XRDL.DDL.K3.BOS.Tools\XRDL.DDL.K3.BOS.Tools.csproj", "{F4C0F5DA-68E3-473F-882E-359FE2ED02BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYSD.DDL.K3.BOS.WebApi.ServicesStub", "CYGF.DDL.K3.BOS.WebApi.ServicesStub\CYSD.DDL.K3.BOS.WebApi.ServicesStub.csproj", "{1F4CE63F-2858-49E6-AAB2-A2974D7B5AAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRDL.DDL.K3.BOS.WebApi.ServicesStub", "XRDL.DDL.K3.BOS.WebApi.ServicesStub\XRDL.DDL.K3.BOS.WebApi.ServicesStub.csproj", "{1F4CE63F-2858-49E6-AAB2-A2974D7B5AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYSD.DDL.K3Cloud.BusinessPlugIn", "CYGF.DDL.K3Cloud.BusinessPlugIn\CYSD.DDL.K3Cloud.BusinessPlugIn.csproj", "{A9F5AF93-57F3-4000-A5AA-921BA748F628}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRDL.DDL.K3Cloud.BusinessPlugIn", "XRDL.DDL.K3Cloud.BusinessPlugIn\XRDL.DDL.K3Cloud.BusinessPlugIn.csproj", "{A9F5AF93-57F3-4000-A5AA-921BA748F628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

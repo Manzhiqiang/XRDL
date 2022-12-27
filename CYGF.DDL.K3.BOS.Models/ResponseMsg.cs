@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CYSD.DDL.K3.BOS.Models
+namespace XRDL.DDL.K3.BOS.Models
 {
     public class ResponseMsg
     {

@@ -5,7 +5,7 @@ using System.Text;
 using Kingdee.BOS.Core.List;
 using Kingdee.BOS.Orm;
 
-namespace CYSD.DDL.K3.BOS.Models
+namespace XRDL.DDL.K3.BOS.Models
 {
     public class ConvertOption
     {

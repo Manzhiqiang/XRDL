@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CYSD.DDL.K3.BOS.Models
+namespace XRDL.DDL.K3.BOS.Models
 {
     public class K3BaseMessageModel
     {

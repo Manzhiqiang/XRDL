@@ -7,10 +7,10 @@ using System.Linq;
 using System.Web;
 using Newtonsoft.Json;
 using Kingdee.BOS.WebApi.FormService;
-using CYSD.DDL.K3.BOS.Tools;
-using CYSD.DDL.K3.BOS.Models;
+using XRDL.DDL.K3.BOS.Tools;
+using XRDL.DDL.K3.BOS.Models;
 
-namespace CYSD.DDL.K3.BOS.WebApi.ServicesStub.APIBase
+namespace XRDL.DDL.K3.BOS.WebApi.ServicesStub.APIBase
 {
     public class ApiBaseService1 : AbstractWebApiBusinessService
     {

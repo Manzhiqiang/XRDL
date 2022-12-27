@@ -10,17 +10,17 @@ using Kingdee.BOS.Util;
 using Kingdee.K3.MFG.App;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using CYSD.DDL.K3.BOS.Models;
-using CYSD.DDL.K3.BOS.WebApi.ServicesStub.APIBase;
+using XRDL.DDL.K3.BOS.Models;
+using XRDL.DDL.K3.BOS.WebApi.ServicesStub.APIBase;
 using Kingdee.BOS.Orm.DataEntity;
 using Kingdee.BOS.Core.SqlBuilder;
 using Kingdee.BOS.Core.Metadata;
 using Kingdee.BOS.App.Data;
 using Kingdee.BOS;
 using Kingdee.BOS.ServiceHelper;
-using CYSD.DDL.K3.BOS.Tools;
+using XRDL.DDL.K3.BOS.Tools;
 
-namespace CYSD.DDL.K3.BOS.WebApi.ServicesStub
+namespace XRDL.DDL.K3.BOS.WebApi.ServicesStub
 {
 
     /// <summary>

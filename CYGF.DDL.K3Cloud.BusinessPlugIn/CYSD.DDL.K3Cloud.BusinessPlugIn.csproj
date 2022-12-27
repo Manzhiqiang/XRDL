@@ -7,8 +7,8 @@
     <ProjectGuid>{A9F5AF93-57F3-4000-A5AA-921BA748F628}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CYSD.DDL.K3Cloud.BusinessPlugIn</RootNamespace>
-    <AssemblyName>CYSD.DDL.K3Cloud.BusinessPlugIn</AssemblyName>
+    <RootNamespace>XRDL.DDL.K3Cloud.BusinessPlugIn</RootNamespace>
+    <AssemblyName>XRDL.DDL.K3Cloud.BusinessPlugIn</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -111,13 +111,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CYGF.DDL.K3.BOS.Models\CYSD.DDL.K3.BOS.Models.csproj">
+    <ProjectReference Include="..\XRDL.DDL.K3.BOS.Models\XRDL.DDL.K3.BOS.Models.csproj">
       <Project>{b548c0b2-9859-436b-9d2b-3598b5b41173}</Project>
-      <Name>CYSD.DDL.K3.BOS.Models</Name>
+      <Name>XRDL.DDL.K3.BOS.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CYGF.DDL.K3.BOS.Tools\CYSD.DDL.K3.BOS.Tools.csproj">
+    <ProjectReference Include="..\XRDL.DDL.K3.BOS.Tools\XRDL.DDL.K3.BOS.Tools.csproj">
       <Project>{f4c0f5da-68e3-473f-882e-359fe2ed02bf}</Project>
-      <Name>CYSD.DDL.K3.BOS.Tools</Name>
+      <Name>XRDL.DDL.K3.BOS.Tools</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

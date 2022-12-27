@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("CYSD.DDL.K3.BOS.WebApi.ServicesStub")]
+[assembly: AssemblyTitle("XRDL.DDL.K3.BOS.WebApi.ServicesStub")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CYSD.DDL.K3.BOS.WebApi.ServicesStub")]
+[assembly: AssemblyProduct("XRDL.DDL.K3.BOS.WebApi.ServicesStub")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

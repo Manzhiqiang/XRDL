@@ -11,14 +11,14 @@ using Kingdee.BOS.Orm;
 using Kingdee.BOS.Orm.DataEntity;
 using Kingdee.BOS.Util;
 using Kingdee.K3.MFG.App;
-using CYSD.DDL.K3.BOS.Models;
+using XRDL.DDL.K3.BOS.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using Newtonsoft.Json.Linq;
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public class BillConvertHelper
     {

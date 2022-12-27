@@ -1,4 +1,4 @@
-﻿using CYSD.DDL.K3.BOS.Models;
+﻿using XRDL.DDL.K3.BOS.Models;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public static class K3CloudBase
     {

@@ -20,7 +20,7 @@ using Kingdee.BOS.Core.SqlBuilder;
 using System.ComponentModel;
 using Kingdee.BOS.Core.Bill.PlugIn;
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public class BillOperate
     {

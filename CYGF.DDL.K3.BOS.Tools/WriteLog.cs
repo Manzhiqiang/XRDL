@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace CYSD.DDL.K3.BOS.Tools
+namespace XRDL.DDL.K3.BOS.Tools
 {
     public class WriteLog
     {

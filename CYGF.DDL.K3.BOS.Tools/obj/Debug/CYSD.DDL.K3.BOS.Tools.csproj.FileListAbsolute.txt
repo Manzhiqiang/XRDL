@@ -1,7 +1,7 @@
-C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3.BOS.Tools.dll
-C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3.BOS.Tools.pdb
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Tools\obj\Debug\CYSD.DDL.K3.BOS.Tools.csprojFakesResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Tools\obj\Debug\CYSD.DDL.K3.BOS.Tools.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Tools\obj\Debug\CYSD.DDL.K3.BOS.Tools.csproj.CopyComplete
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Tools\obj\Debug\CYSD.DDL.K3.BOS.Tools.dll
-C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Tools\obj\Debug\CYSD.DDL.K3.BOS.Tools.pdb
+C:\Users\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Tools.dll
+C:\Users\beifenbin\K3Cloud\WebSite\bin\XRDL.DDL.K3.BOS.Tools.pdb
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Tools\obj\Debug\XRDL.DDL.K3.BOS.Tools.csprojFakesResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Tools\obj\Debug\XRDL.DDL.K3.BOS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Tools\obj\Debug\XRDL.DDL.K3.BOS.Tools.csproj.CopyComplete
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Tools\obj\Debug\XRDL.DDL.K3.BOS.Tools.dll
+C:\Users\Administrator\Desktop\速达\XRDL.DDL.K3.BOS.PlugIn\XRDL.DDL.K3.BOS.Tools\obj\Debug\XRDL.DDL.K3.BOS.Tools.pdb
