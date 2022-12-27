@@ -1,0 +1,7 @@
+C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3Cloud.BusinessPlugIn.dll
+C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3Cloud.BusinessPlugIn.pdb
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3Cloud.BusinessPlugIn\obj\Debug\CYSD.DDL.K3Cloud.BusinessPlugIn.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3Cloud.BusinessPlugIn\obj\Debug\CYSD.DDL.K3Cloud.BusinessPlugIn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3Cloud.BusinessPlugIn\obj\Debug\CYSD.DDL.K3Cloud.BusinessPlugIn.csproj.CopyComplete
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3Cloud.BusinessPlugIn\obj\Debug\CYSD.DDL.K3Cloud.BusinessPlugIn.dll
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3Cloud.BusinessPlugIn\obj\Debug\CYSD.DDL.K3Cloud.BusinessPlugIn.pdb

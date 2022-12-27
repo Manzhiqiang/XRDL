@@ -1,0 +1,7 @@
+C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3.BOS.Models.dll
+C:\Users\beifenbin\K3Cloud\WebSite\bin\CYSD.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYSD.DDL.K3.BOS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYSD.DDL.K3.BOS.Models.csproj.CopyComplete
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYSD.DDL.K3.BOS.Models.dll
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYSD.DDL.K3.BOS.Models.pdb
+C:\Users\Administrator\Desktop\速达\CYGF.DDL.K3.BOS.PlugIn\CYGF.DDL.K3.BOS.Models\obj\Debug\CYSD.DDL.K3.BOS.Models.csprojFakesResolveAssemblyReference.cache
